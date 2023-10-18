@@ -159,7 +159,7 @@ const Home = () => {
               <a
                 className='bg-green-500 text-white p-4 flex w-44 text-1xl rounded-xl justify-around font-semibold'
                 download
-                href='https://drive.google.com/file/d/1LoIF-QKc8mthgAseMitXszbbQaIm-dr2/view?usp=sharing'
+                href='https://drive.google.com/file/d/1cwxLHE606PPKU_iU_MCyqflakGQeO3LW/view?pli=1'
                 target='blank'
               >
                 Download CV
