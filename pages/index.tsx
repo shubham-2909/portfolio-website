@@ -512,14 +512,14 @@ const Home = () => {
               <div className='flex gap-3 items-center justify-center'>
                 <a
                   className='bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4'
-                  href='https://github.com/shubham-2909/my-blog-app'
+                  href='https://github.com/shubham-2909/portfolio-website'
                   target='blank'
                 >
                   View on GitHub
                 </a>
                 <a
                   className='bg-green-500 text-white p-4 flex w-18 text-1xl rounded-xl font-semibold mt-4'
-                  href='https://my-blog-app-gamma.vercel.app/'
+                  href='https://shubham-2909.vercel.app/'
                   target='blank'
                 >
                   Live Demo
