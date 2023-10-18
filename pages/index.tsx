@@ -136,7 +136,7 @@ const Home = () => {
           <div className='flex flex-col space-y-12 md:space-x-32 justify-center items-center md:items-start md:flex-row'>
             <img
               className='h-72 w-72 rounded-xl object-cover'
-              src='VYS_0172.jpg'
+              src='VYS_0172.JPG'
             />
             <div className='flex flex-col space-y-20 justify-center items-center grow mx-12 md:items-start'>
               <p>
